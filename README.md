@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculator
 
 How to start the calculator application
@@ -13,6 +12,3 @@ Health Check
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
 =======
-# dropwizard-calculator
-Simple App for a calculator
->>>>>>> 54daf3bcfb0ab9f51a47620726ce317a214af5ea
