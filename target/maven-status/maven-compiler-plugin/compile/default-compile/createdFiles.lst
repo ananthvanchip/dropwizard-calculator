@@ -1,0 +1,4 @@
+com/example/resources/CalculatorResource.class
+com/example/service/CalculatorService.class
+com/example/CalculatorConfiguration.class
+com/example/CalculatorApplication.class
